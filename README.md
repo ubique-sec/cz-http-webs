@@ -1,3 +1,4 @@
-# non-https-cz-pages
+# cz-http-webs
 
-A list of Czech web pages without ssl certificate or pages downgradable to http.
+A list of Czech web pages without SSL.
+For lecturing purpopes I added a dork for more actual examples.
